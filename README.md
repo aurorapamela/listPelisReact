@@ -1,2 +1,0 @@
-# listPelisReact
-Created with CodeSandbox
